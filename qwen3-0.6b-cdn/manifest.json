@@ -1,0 +1,86 @@
+{
+  "model_id": "onnx-community/Qwen3-0.6B-ONNX",
+  "dtype": "q4f16",
+  "chunk_size": 19922944,
+  "generated_at": "2026-09-10T05:01:27.756Z",
+  "files": {
+    ".gitattributes": {
+      "size": 1675,
+      "chunks": null
+    },
+    "README.md": {
+      "size": 1539,
+      "chunks": null
+    },
+    "added_tokens.json": {
+      "size": 707,
+      "chunks": null
+    },
+    "chat_template.jinja": {
+      "size": 4116,
+      "chunks": null
+    },
+    "config.json": {
+      "size": 912,
+      "chunks": null
+    },
+    "generation_config.json": {
+      "size": 219,
+      "chunks": null
+    },
+    "merges.txt": {
+      "size": 1671853,
+      "chunks": null
+    },
+    "onnx/model_q4f16.onnx": {
+      "size": 569789750,
+      "chunks": [
+        "onnx/model_q4f16.onnx.part00000",
+        "onnx/model_q4f16.onnx.part00001",
+        "onnx/model_q4f16.onnx.part00002",
+        "onnx/model_q4f16.onnx.part00003",
+        "onnx/model_q4f16.onnx.part00004",
+        "onnx/model_q4f16.onnx.part00005",
+        "onnx/model_q4f16.onnx.part00006",
+        "onnx/model_q4f16.onnx.part00007",
+        "onnx/model_q4f16.onnx.part00008",
+        "onnx/model_q4f16.onnx.part00009",
+        "onnx/model_q4f16.onnx.part00010",
+        "onnx/model_q4f16.onnx.part00011",
+        "onnx/model_q4f16.onnx.part00012",
+        "onnx/model_q4f16.onnx.part00013",
+        "onnx/model_q4f16.onnx.part00014",
+        "onnx/model_q4f16.onnx.part00015",
+        "onnx/model_q4f16.onnx.part00016",
+        "onnx/model_q4f16.onnx.part00017",
+        "onnx/model_q4f16.onnx.part00018",
+        "onnx/model_q4f16.onnx.part00019",
+        "onnx/model_q4f16.onnx.part00020",
+        "onnx/model_q4f16.onnx.part00021",
+        "onnx/model_q4f16.onnx.part00022",
+        "onnx/model_q4f16.onnx.part00023",
+        "onnx/model_q4f16.onnx.part00024",
+        "onnx/model_q4f16.onnx.part00025",
+        "onnx/model_q4f16.onnx.part00026",
+        "onnx/model_q4f16.onnx.part00027",
+        "onnx/model_q4f16.onnx.part00028"
+      ]
+    },
+    "special_tokens_map.json": {
+      "size": 613,
+      "chunks": null
+    },
+    "tokenizer.json": {
+      "size": 9117040,
+      "chunks": null
+    },
+    "tokenizer_config.json": {
+      "size": 9705,
+      "chunks": null
+    },
+    "vocab.json": {
+      "size": 2776833,
+      "chunks": null
+    }
+  }
+}
